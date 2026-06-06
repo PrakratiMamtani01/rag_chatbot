@@ -1,0 +1,4 @@
+Users may request withdrawals only after completing account verification.
+Withdrawals are processed to the same payment method used for deposits where possible.
+Withdrawal processing time depends on the payment provider and may take 1 to 5 business days.
+If a withdrawal is delayed beyond 5 business days, the case should be escalated to support.

@@ -1,0 +1,5 @@
+Users must complete identity verification before accessing full account features.
+Accepted documents include passport, national identity card, or driving licence.
+The uploaded document must be clear, valid, and not expired.
+Verification usually takes 1 to 3 business days.
+If the document is rejected, the user should upload a clearer or valid document.

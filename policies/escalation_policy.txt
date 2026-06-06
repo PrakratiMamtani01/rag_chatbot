@@ -1,0 +1,4 @@
+Cases should be escalated when a withdrawal is delayed beyond 5 business days.
+Cases should be escalated when a user reports unauthorized account access.
+Cases should be escalated when a deposit remains missing after the user provides complete transaction details.
+Cases involving legal threats, fraud claims, or severe financial loss should be escalated to a human support specialist.

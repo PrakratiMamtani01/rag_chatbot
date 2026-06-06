@@ -1,0 +1,4 @@
+Deposits are usually credited instantly but may take longer depending on the payment provider.
+If a deposit is missing, the user should provide the payment receipt, transaction ID, payment method, and deposit time.
+The support team can investigate missing deposits after receiving complete payment details.
+Users should not create multiple duplicate deposit tickets for the same transaction.

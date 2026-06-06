@@ -12,6 +12,6 @@ This chatbot is scalable system using policy documents as domain-specific knowle
 ## How to Run
 - Ensure you have Python installed
 - Create a virtual requirement
-- ``` pip install langchain, langchain_google_genai, sentence_transformers, dotenv ```
+- ``` pip install langchain, langchain_google_genai, pinecone, sentence_transformers, dotenv ```
 - Create a .env file with your GEMINI_API_KEY, PINECONE_API_KEY, PINECONE_INDEX_NAME
 - ``` python practice2.py ```
